@@ -185,7 +185,7 @@ def check_for_updates():
 def notifyen():
     try:
         if DEBUG_MODE:
-            url = "https://github.com/TheSpeedX/TBomb/raw/dev/.notify"
+            url = "https://raw.githubusercontent.com/done4us/spamer/main/.notify"
         else:
             url = "https://github.com/TheSpeedX/TBomb/raw/master/.notify"
         noti = requests.get(url).text.upper()
