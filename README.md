@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/done4us/spamer"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="Spamer"></a>
+  <a href="https://github.com/done4us/spamer"><img src="https://i.ibb.co/F4HBKqm/TBomb.pg" alt="Spamer"></a>
   <br>
   Spamer v1.0
   <br>
@@ -187,7 +187,7 @@ The package `toilet` cannot be installed yet on macOS. But spamer does still wor
 ##
 ### Support
 
-For Queries: [Telegram Group](https://t.me/done4us)
+For Queries: [Telegram Group](https://t.me/done4u_s)
 Contributions, issues, and feature requests are welcome!  
 Give a ★ if you like this project!
 
